@@ -1,2 +1,3 @@
 # Sparkfun-Relay-Test
 Simple blinky test for our sparfun board relay setup.
+blink should be the only working version...
